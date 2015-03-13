@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E267AA3A-5989-42EF-9775-3AC6474F589A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MySafari</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC09CCC35D150FAF82729C4B601ECDCB0BCC442D</key>
+		<string>github.com:gabemdev/MobileMakers.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>course/MySafari/MySafari.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC09CCC35D150FAF82729C4B601ECDCB0BCC442D</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:gabemdev/MobileMakers.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC09CCC35D150FAF82729C4B601ECDCB0BCC442D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC09CCC35D150FAF82729C4B601ECDCB0BCC442D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MobileMakers</string>
+		</dict>
+	</array>
+</dict>
+</plist>
